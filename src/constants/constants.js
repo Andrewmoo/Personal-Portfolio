@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/countriesapp.png',
       tags: ['React', 'Axios', 'React Router DOM', 'Node'],
     source: 'https://csb-2erq4.netlify.app/',
-    visit: 'https://codesandbox.io/s/countries-app-2erq4?file=/src/components/Header.js',
+    visit: 'https://codesandbox.io/s/countries-app-2erq4?file=/src/App.js',
     id: 4,
   },
   {
