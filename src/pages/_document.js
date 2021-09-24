@@ -1,4 +1,5 @@
 import Document, { Head, Html, Main, NextScript } from 'next/document'
+import { DiCssdeck } from 'react-icons/di';
 import { ServerStyleSheet } from 'styled-components'
 
 export default class MyDocument extends Document {
@@ -32,6 +33,7 @@ export default class MyDocument extends Document {
       <Html lang='en-GB'>
         <Head>
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+          <link rel="icon" href={DiCssdeck} />
         </Head>
         <body>
           <Main />
