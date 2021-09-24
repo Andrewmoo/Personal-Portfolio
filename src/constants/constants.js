@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: 'Delaunay Triangulation',
-    description:"Phone case patterns designed and coded in P5.JS using a mathematical function called Delaunay triangulation which invloves ensuring no triangle lays inside the circumcircle of any other triangle to achive this computationally I employed the Bowyer Watson algorithm. I really liked the end product and thought the pattern would fit well on phone cases so from there I produced and marketed the cases",
-    image: '/images/2.png',
-    tags: ['P5.js', 'JavaScript'],
-    source: 'https://andrewmoo.github.io/Creative-Coding/Shape-Pattern/Main%20Exercises/Wrapping%20Paper%20Design/index.html',
-    visit: 'https://codepen.io/andrewmoo98/pen/YzpBarx?editors=0010',
-    id: 1,
+    title: "Jack's Blog",
+    description: "This is a web application I built for a writer as a space to have all their work, it is a fully responsive full stack application that utilises the MERN stack and implements Auth0 and Formspree",
+      image: "/images/Jack's Blog.svg",
+      tags: ['React', 'MongoDB', 'Express', 'Node'],
+    source: 'https://jacks-blog-frontend.herokuapp.com/posts',
+    visit: 'https://codesandbox.io/s/countries-app-2erq4?file=/src/components/Header.js',
+    id: 5,
   },
   {
     title: 'Countries API App',
@@ -25,6 +25,15 @@ export const projects = [
     source: 'https://leecampbellperrie.netlify.app/',
     visit: 'https://github.com/Andrewmoo/Lees-React-Portfolio',
     id: 0,
+  },
+  {
+    title: 'Delaunay Triangulation',
+    description:"Phone case patterns designed and coded in P5.JS using a mathematical function called Delaunay triangulation which invloves ensuring no triangle lays inside the circumcircle of any other triangle to achive this computationally I employed the Bowyer Watson algorithm. I really liked the end product and thought the pattern would fit well on phone cases so from there I produced and marketed the cases",
+    image: '/images/2.png',
+    tags: ['P5.js', 'JavaScript'],
+    source: 'https://andrewmoo.github.io/Creative-Coding/Shape-Pattern/Main%20Exercises/Wrapping%20Paper%20Design/index.html',
+    visit: 'https://codepen.io/andrewmoo98/pen/YzpBarx?editors=0010',
+    id: 1,
   },
   {
     title: 'Stopover',
