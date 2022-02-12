@@ -5,7 +5,7 @@ export const projects = [
       image: "/images/Jack's Blog.svg",
       tags: ['React', 'MongoDB', 'Express', 'Node'],
     source: 'https://jacks-blog-frontend.herokuapp.com/posts',
-    visit: 'https://codesandbox.io/s/countries-app-2erq4?file=/src/components/Header.js',
+    visit: 'https://github.com/Andrewmoo/Jacks-Blog',
     id: 5,
   },
   {
